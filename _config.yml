@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : Chenfei Qu / Site Title"
+title                    : Chenfei Qu / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chenfei Qu"
 description              : &description "personal description"
 url                      : https://chenfeiqu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
