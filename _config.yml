@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : Chenfei Qu / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Chenfei Qu"
-description              : &description "personal description"
+description              : &description "PhD candidate, Tsinghua University"
 url                      : https://chenfeiqu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenfeiqu/chenfeiqu.github.io"
