@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : Chenfei Qu / Personal Homepage"
+title                    : Chenfei Qu
 title_separator          : "-"
 name                     : &name "Chenfei Qu"
 description              : &description "PhD candidate, Tsinghua University"
