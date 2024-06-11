@@ -21,9 +21,9 @@ repository               : "chenfeiqu/chenfeiqu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "personal_photo.png"
   name             : "Chenfei Qu"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # "Short biography for the left-hand sidebar"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   uri              : # URL
