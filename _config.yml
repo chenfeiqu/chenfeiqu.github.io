@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : Chenfei Qu
+title                    : About me
 title_separator          : "-"
-name                     : &name "Chenfei Qu"
-description              : &description "PhD candidate, Tsinghua University"
+name                     : &name "About me"
+description              : # &description "PhD candidate, Tsinghua University"
 url                      : https://chenfeiqu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenfeiqu/chenfeiqu.github.io"
