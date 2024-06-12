@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome!**
+**Welcome to Chenfei Qu's page!**
 
 I am a PhD candidate at the Institute of Energy, Environment, and Economy, Tsinghua University. 
 
@@ -15,4 +15,4 @@ My primary research interests are in carbon pricing and emissions trading polici
 
 You can find my [CV](../assets/QU_Chenfei_CV.pdf) here.
 
-[Email](mailto:qcf20@mails.tsinghua.edu.cn) qcf20[at]mails.tsinghua.edu.cn 
+[Email](mailto:qcf20@mails.tsinghua.edu.cn) qcf20[at]mails.tsinghua.edu.cn
