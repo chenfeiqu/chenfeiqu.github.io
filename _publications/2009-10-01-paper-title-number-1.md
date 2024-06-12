@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "China’s Nationwide CO2 Emissions Trading System: A General Equilibrium Assessment"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: #'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'Working Paper'
+slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
+paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://media.rff.org/documents/WP_24-02.pdf)'
+citation: #'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
 China’s recently launched CO2 emissions trading system, already the world’s largest, aims to contribute importantly toward global reductions in greenhouse gas emissions.  The system, a tradable performance standard (TPS), differs importantly from cap and trade (C&T), the principal emissions trading approach used in other countries.  We offer a dynamic general equilibrium assessment of this new venture, employing a model that uniquely considers institutional and fiscal features of China’s economy that influence economy-wide policy costs and distributional impacts.
