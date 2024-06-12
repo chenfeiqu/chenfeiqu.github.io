@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome! 
+Welcome! 
 
-I am a PhD candidate in the Institute of Energy, Environment, and Economy, Tsinghua University. My primary research interests are in Emission Trading Systems, Carbon Pricing, Secondbest settings, Air pollution, Integrated Assessment Models for Climate Change. I build and use computable general equilibrium models and integrated assessment models for analysis, and also have experience in meta analysis.
+I am a PhD candidate at the Institute of Energy, Environment, and Economy, Tsinghua University. My primary research interests are in environmental tax systems and emissions trading policies, climate change policy, air pollution, and Integrated Assessment Models for Climate Change. In my research, I oftern build and use computable general equilibrium models and integrated assessment models for analysis, and also have experience in meta-analysis.
 
-I have a bachlor degree at School of Environment (Global Environmental Programme)in Tsinghua University and a minor in the School of Economics, Tsinghua University. You can find my CV here:[Chenfei's CV](../assets/QU Chenfei_CV_2023.pdf)
+I have a bachlor degree at School of Environment (Global Environmental Programme)in Tsinghua University and a minor in the School of Economics, Tsinghua University. You can find my [CV](../assets/QU_Chenfei_CV.pdf) here.
 
 [Email](mailto:qcf20@mails.tsinghua.edu.cn) qcf20[at]mails.tsinghua.edu.cn 
